@@ -3,7 +3,7 @@
     📚 Cursando Análise e Desenvolvimento de Sistemas na Universidade IESB-OESTE.
     📌 Brasília-DF.💭
     💭 Buscando conhecimento a cada dia.
-    📫 Contato: ricardo.privado5050@gmail.com.
+    📫 Contato: ricardo.privado5050@gmail.com
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardinszz/)
