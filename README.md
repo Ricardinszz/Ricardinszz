@@ -1,6 +1,6 @@
 ### Hi there, My name is Ricardo Santos 👋
 
-    📚 Cursando Análise e Desenvolvimento de Sistemas na Universidade IESB-OESTE.
+    📚 Formado em Análise e Desenvolvimento de Sistemas na Universidade IESB-OESTE.
     📌 Brasília-DF.💭
     💭 Buscando conhecimento a cada dia.
     📫 Contato: ricardo.privado5050@gmail.com.
